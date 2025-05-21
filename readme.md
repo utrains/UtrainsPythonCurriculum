@@ -161,12 +161,12 @@ print(name, age, height, is_student)
 🧠 **Tip:** You can print multiple values together using commas. Python will separate them with spaces:
 
 🔹 Variable Naming Rules
-✅ Must start with a letter (a-z, A-Z) or underscore _
-✅ Can include letters, numbers (0-9), and underscores
-✅ Case-sensitive (Name and name are different)
-✅ Cannot use Python reserved keywords (if, while, import, etc.)
+-✅ Must start with a letter (a-z, A-Z) or underscore _
+-✅ Can include letters, numbers (0-9), and underscores
+-✅ Case-sensitive (Name and name are different)
+-✅ Cannot use Python reserved keywords (if, while, import, etc.)
 
-✅ Valid Examples:
+-✅ Valid Examples:
 ```python
 my_variable = 10
 _myVar = "Python"
